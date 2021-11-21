@@ -1,6 +1,6 @@
-# Breast Cancer Disease Prediction Project 
+#### Breast Cancer Disease Prediction Project 
 
-#### If you want to view the deployed model, click on the following link:
+## live link
 
 •https://geetansh-101803159-cancer.herokuapp.com/
 
