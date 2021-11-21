@@ -26,6 +26,8 @@
 - Pycharm
 - Heroku
 
+##Methedology
+
   
 ## Running Tests
 
