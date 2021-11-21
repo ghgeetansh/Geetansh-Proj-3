@@ -1,13 +1,8 @@
-# Breast Cancer Disease Prediction Project ❤
+# Breast Cancer Disease Prediction Project 
 
 #### If you want to view the deployed model, click on the following link:
 
-• https://breast-cancer-predi.herokuapp.com/
-
-## Demo
-
-<img src="https://raw.githubusercontent.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project/main/Images/gif.gif">
-<img src="https://raw.githubusercontent.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project/main/Images/gif1.gif">
+•https://geetansh-101803159-cancer.herokuapp.com/
 
 ## Dataset
 
@@ -18,7 +13,7 @@
 [Download Description](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names)
 
 
-## Tech Stack
+## tech stack
 
 - Python
 - Machine Learning
@@ -40,10 +35,7 @@ To run app, run the following command
   python app.run
 ```
 
-  
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project/main/Images/screenshot.png)
+ 
 
   
 ## Deployment
@@ -89,29 +81,3 @@ Push Code
 Push code to Master Branch
 ```bash
   git push heroku master
-```
-
-  
-## Related
-
-Here are some related projects
-
-
-[Liver Disease](https://github.com/SagarDhandare/Liver-Disease-Prediction-Project)
-
-[Heart Disease](https://github.com/SagarDhandare/Heart-Disease-Project)
-
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
-
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
-
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
-
-  
-## Feedback
-
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagardhandare/)
-
-Please do ⭐ the repository, if you like this 😊
-
-Thank you ❤
