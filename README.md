@@ -26,7 +26,7 @@
 - Pycharm
 - Heroku
 
-##Methedology
+## Methedology
 
 ![image](https://user-images.githubusercontent.com/92667898/142766710-d6a9e5dc-ce7d-4234-ab69-a9c2a2e918d6.png)
 
